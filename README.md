@@ -25,3 +25,8 @@
 ## CVE
 - [CVE-2022-1222](https://huntr.dev/bounties/f8cb85b8-7ff3-47f1-a9a6-7080eb371a3d/): infinite loop when parsing avi format file in gpac
 - [CVE-2022-24792](https://github.com/pjsip/pjproject/security/advisories/GHSA-rwgw-vwxg-q799): Potential infinite loop when parsing wav format file in pjsip
+
+
+<p align = "center" >
+  <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
+</p>
