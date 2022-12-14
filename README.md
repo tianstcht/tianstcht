@@ -13,14 +13,15 @@
 - 2022 Realworld ctf 4th
 
 ## Education
-- 2016-2017. Metallurgical Engineering in NEU of China.
-- 2017-2020. Information Security in NEU of China.
-- 2020-2021. Cyberspace Security in BUAA of China.
+- 2016.9-2017.6. Metallurgical Engineering in NEU of China.
+- 2017.9-2020.6. Information Security in NEU of China.
+- 2020.9-Now. Cyberspace Security in BUAA of China.
 
 ## Work
 - 2019.5-2019.9. Network Security Researcher of WeiRan Lab@Huawei
 - 2020.6-2020.9. Binary Security Researcher(online)@StarCross
-- 2022.2-now. Binary Security Researcher@Chaitin
+- 2022.2-2022.9. Binary Security Researcher@Chaitin
+- Now. Job Hunting
 
 ## CVE
 - [CVE-2022-1222](https://huntr.dev/bounties/f8cb85b8-7ff3-47f1-a9a6-7080eb371a3d/): infinite loop when parsing avi format file in gpac
