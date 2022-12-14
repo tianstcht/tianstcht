@@ -1,7 +1,7 @@
 ## tianstcht
 - 👋 Hi, I’m [@tianstcht](https://github.com/tianstcht).
 - 👀 I’m interested in binary security research.
-- 🎩 I‘m a second-year master student in BUAA of China.
+- 🎩 I‘m a third-year master student in BUAA of China.
 - 😈 My blog: https://tianstcht.github.io/ (always forget to update...)
 - 😭 I’m currently learning chrome v8 exploitation. (it's too hard!)
 
