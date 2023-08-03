@@ -1,7 +1,7 @@
 ## tianstcht
 - 👋 Hi, I’m [@tianstcht](https://github.com/tianstcht).
 - 👀 I’m interested in binary security research.
-- 🎩 I‘m a third-year master student in BUAA of China.
+- 🎩 I‘m a graduate master in BUAA of China.
 - 😈 My blog: https://tianstcht.github.io/ (always forget to update...)
 - 😭 I’m currently learning chrome v8 exploitation. (it's too hard!)
 
@@ -15,7 +15,7 @@
 ## Education
 - 2016.9-2017.6. Metallurgical Engineering in NEU of China.
 - 2017.9-2020.6. Information Security in NEU of China.
-- 2020.9-Now. Cyberspace Security in BUAA of China.
+- 2020.9-2023.6. Cyberspace Security in BUAA of China.
 
 ## Work
 - 2019.5-2019.9. Network Security Researcher of WeiRan Lab@Huawei
