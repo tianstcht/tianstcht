@@ -3,7 +3,7 @@
 - 👀 I’m interested in binary security research.
 - 🎩 I‘m a graduate master in BUAA of China.
 - 😈 My blog: https://tianstcht.github.io/ (always forget to update...)
-- 😭 I’m currently learning chrome v8 exploitation. (it's too hard!)
+- 😭 I’m currently working about chrome v8 exploitation.
 
 ## Hack for fun
 - A ctfer and pwner in [r3kapig team](https://r3kapig.com/).
@@ -23,10 +23,10 @@
 - 2022.2-2022.9. Binary Security Researcher@Chaitin
 - Now. Job Hunting
 
-## CVE
+## Bug List
 - [CVE-2022-1222](https://huntr.dev/bounties/f8cb85b8-7ff3-47f1-a9a6-7080eb371a3d/): infinite loop when parsing avi format file in gpac
 - [CVE-2022-24792](https://github.com/pjsip/pjproject/security/advisories/GHSA-rwgw-vwxg-q799): Potential infinite loop when parsing wav format file in pjsip
-
+- [CVE-2024-5585](https://github.com/php/php-src/security/advisories/GHSA-9fcc-425m-g385): windows cmdi in php, it's a simple bypass case about CVE-2024-1874
 
 <p align = "center" >
   <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
