@@ -9,6 +9,9 @@
 #### 🍊State
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=tianstcht&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=vue&hide_border=true" alt="tt's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianstcht&hide_title=true&layout=compact&theme=vue&hide_border=true%&hide=html" alt="Most Used Languages">
 
+#### 🏆Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=tianstcht&theme=onedark&column=10)
+
 #### 🎺Contribution
 ![github contribution grid snake animation](https://github.com/tianstcht/tianstcht/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
