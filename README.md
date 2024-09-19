@@ -7,7 +7,7 @@
 - 😭 I’m currently working about chrome v8 exploitation.
 
 #### 🍊State
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=tianstcht&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=vue&hide_border=true" alt="tt's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianstcht&hide_title=true&layout=compact&theme=vue&hide_border=true%&hide=html" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=tianstcht&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=vue&hide_border=true" alt="tt's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianstcht&hide_title=true&layout=compact&theme=vue&hide_border=true%&hide=html,css" alt="Most Used Languages">
 
 #### 🏆Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=tianstcht&theme=onedark&column=10)
@@ -48,3 +48,4 @@
 - [CVE-2022-1222](https://huntr.dev/bounties/f8cb85b8-7ff3-47f1-a9a6-7080eb371a3d/): infinite loop when parsing avi format file in gpac
 - [CVE-2022-24792](https://github.com/pjsip/pjproject/security/advisories/GHSA-rwgw-vwxg-q799): Potential infinite loop when parsing wav format file in pjsip
 - [CVE-2024-5585](https://github.com/php/php-src/security/advisories/GHSA-9fcc-425m-g385): windows cmdi in php, it's a simple bypass case about CVE-2024-1874
+- [CVE-2024-36138](https://nodejs.org/en/blog/vulnerability/july-2024-security-releases#bypass-incomplete-fix-of-cve-2024-27980-cve-2024-36138---high): windows cmdi in nodejs, a simple bypass case about CVE-2024-27980
