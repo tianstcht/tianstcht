@@ -7,7 +7,7 @@
 - 😭 I’m currently working about chrome v8 exploitation.
 
 #### 🍊State
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=tianstcht&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=vue&hide_border=true" alt="tt's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianstcht&hide_title=true&layout=compact&theme=vue&hide_border=true%&hide=html,css" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=tianstcht&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=vue&hide_border=true" alt="tt's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianstcht&hide_title=true&layout=compact&theme=vue&hide_border=true%&hide=html" alt="Most Used Languages">
 
 #### 🏆Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=tianstcht&theme=onedark&column=10)
